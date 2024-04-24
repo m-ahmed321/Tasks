@@ -12,6 +12,7 @@ const fruitBasket = [
   "fig",
 ];
 
+// can also be done by using this method
 // const fruitCounts = new Map();
 
 // for (const fruit of fruitBasket) {
